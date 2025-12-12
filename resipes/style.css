@@ -1,0 +1,48 @@
+body {
+  background-color: #efe7d4;
+}
+.big {
+  background-color: #1a0088;
+  color: #efe7d4;
+  text-align: center;
+  padding: 16px;
+  margin: 16px 400px;
+  border-radius: 16px;
+}
+.small {
+  text-align: center;
+  color: #1a0088;
+  background-color: #b6cf4f;
+  margin: 16px 500px;
+  font-size: 25px;
+  border-radius: 16px;
+  padding: 16px 32x;
+}
+.pic {
+  border-radius: 100px 100px;
+  width: 400px;
+  height: 200px;
+  text-align: center;
+  margin: 16px 500px;
+}
+.small2 {
+  color: #1a0088;
+  background-color: #b6cf4f;
+  margin: 32px 350px;
+  font-size: 16px;
+  border-radius: 16px;
+  padding: 16px 32px;
+}
+.sec {
+  text-align: center;
+  color: #efe7d4;
+  background-color: #ff5e32;
+  margin: 32px 350px;
+  font-size: 16px;
+  border-radius: 16px;
+  padding: 16px;
+}
+.text {
+  text-align: center;
+  color: #1a0088;
+}
